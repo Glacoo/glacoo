@@ -80,8 +80,5 @@ Foco Autal em :
 - Fluxo de pagamento simplificado
 - Design responsivo
 
-**Visualização:**  
-[Explorar Protótipo](https://www.figma.com/design/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=Ef8VdovDbxdf1dE7-1)
 
----
 
