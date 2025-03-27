@@ -69,7 +69,7 @@ Foco Autal em :
 ---
 
 ### 🎟️ TicketPunk - Plataforma de Eventos
-![img tkp](https://i.ibb.co/TDwPDtnW/ticket-punk.png)
+![img tkp](https://i.ibb.co/5mrXGHq/ticket-punk-2.png)
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=Ef8VdovDbxdf1dE7-1)
 [![Prototype](https://img.shields.io/badge/🎮_Protótipo_Interativo-FF6B6B?style=for-the-badge)](https://www.figma.com/proto/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=YOUR_PROTO_LINK_HERE)
