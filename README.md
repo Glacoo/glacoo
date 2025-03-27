@@ -52,6 +52,7 @@ Foco Autal em :
 
 ### 🖥️ Web Dev - Design System
 ![Web Dev img](https://i.ibb.co/k20zBtfx/Captura-de-tela-2025-03-27-052438.png)
+
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/sDKDQD3nANAi6lplyeUjKl/Web-Dev?node-id=0-1&t=7UOSPndPjJXOpup1-1)
 [![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
 
