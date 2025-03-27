@@ -48,4 +48,65 @@ Foco Autal em :
 
 **Live Demo:** [amigo-secreto-bice-seven-84.vercel.app](https://amigo-secreto-bice-seven-84.vercel.app)
 
+## Projetos de UX Design 🎨
+
+### 🖥️ Web Dev - Design System
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/sDKDQD3nANAi6lplyeUjKl/Web-Dev?node-id=0-1&t=7UOSPndPjJXOpup1-1)
+[![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
+
+**Descrição:** Sistema de design completo para plataforma de educação em desenvolvimento web  
+**Principais Recursos:**
+- Componentes reutilizáveis
+- Guia de estilo detalhado
+- Fluxo de onboarding
+- Prototipagem interativa
+
+**Acesso ao Projeto:**  
+[Ver no Figma](https://www.figma.com/design/sDKDQD3nANAi6lplyeUjKl/Web-Dev?node-id=0-1&t=BaBt0qFXhTsozpB7-1)
+
+---
+
+### 🎟️ TicketPunk - Plataforma de Eventos
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=Ef8VdovDbxdf1dE7-1)
+[![Prototype](https://img.shields.io/badge/🎮_Protótipo_Interativo-FF6B6B?style=for-the-badge)](https://www.figma.com/proto/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=YOUR_PROTO_LINK_HERE)
+
+**Destaques:**
+- Interface de compra de ingressos
+- Sistema de recomendação
+- Fluxo de pagamento simplificado
+- Design responsivo
+
+**Visualização:**  
+[Explorar Protótipo](https://www.figma.com/design/n0ytRR3ORAnncECHNXiO9u/TicketPunk!!!?node-id=1-170&t=Ef8VdovDbxdf1dE7-1)
+
+---
+
+## Processo de Design 🖌️
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="URL_IMAGEM_WIREFRAMES" width="300" alt="Wireframes">
+      <br>
+      <em>Wireframes Web Dev</em>
+    </td>
+    <td align="center">
+      <img src="URL_IMAGEM_USERFLOW" width="300" alt="User Flow">
+      <br>
+      <em>Jornada do Usuário - TicketPunk</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="URL_IMAGEM_PROTOTIPO" width="300" alt="Prototipagem">
+      <br>
+      <em>Interações no Figma</em>
+    </td>
+    <td align="center">
+      <img src="URL_IMAGEM_TESTES" width="300" alt="Testes">
+      <br>
+      <em>Testes de Usabilidade</em>
+    </td>
+  </tr>
+</table>
 
