@@ -47,4 +47,6 @@ Foco Autal em :
 - Animações CSS personalizadas
 
 **Live Demo:** [amigo-secreto-bice-seven-84.vercel.app](https://amigo-secreto-bice-seven-84.vercel.app)
+![Preview Jogo do Número](https://secret-number-beta-ten.vercel.app)
+![Preview Amigo Secreto](https://amigo-secreto-bice-seven-84.vercel.app)
 
