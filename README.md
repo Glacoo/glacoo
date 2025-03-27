@@ -86,7 +86,7 @@ Foco Autal em :
 <table>
   <tr>
     <td align="center">
-      <img src="URL_IMAGEM_WIREFRAMES" width="300" alt="Wireframes">
+      <img src="https://ibb.co/GQkGpqL0" width="300" alt="Wireframes">
       <br>
       <em>Wireframes Web Dev</em>
     </td>
