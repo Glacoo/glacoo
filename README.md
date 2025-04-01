@@ -84,5 +84,12 @@ Foco Autal em :
 - Fluxo de pagamento simplificado
 - Design responsivo
 
+### 🎟️ O blog - Blog 
+![img tkp](https://i.ibb.co/nsmqTCmZ/image-2025-04-01-101742264.png)
 
+[!Figma](https://www.figma.com/design/wkd2BcWm21exnm46ytyit0/blog?node-id=0-1&m=dev&t=uCLCTgMf3BerwRwH-1)
+
+**Destaques:**
+- Interface de um blog
+- Design responsivo
 
