@@ -86,7 +86,7 @@ Foco Autal em :
 
 ### 🎟️ O blog - Blog 
 
-![Interface do Blog](https://i.ibb.co/nsmqTCm/image-2025-04-01-101742264.png)  
+![Interface do Blog](https://i.ibb.co/nsmqTCmZ/image-2025-04-01-101742264.png)  
 *(Nota: Verifique se a URL da imagem está ativa! Substitua pelo seu link real.)*
 
 **Visualize o design no Figma:**  
